@@ -83,8 +83,8 @@ struct LongInt
             left -= r.left;
             right -= r.right;
         }else{
-        left -= r.left;
-        right -= r.right;
+            left -= r.left;
+            right -= r.right;
         }
 
     }
